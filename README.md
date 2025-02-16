@@ -11,4 +11,8 @@ schema, and then converts this to the CSV format. Users can assign tags as well 
 
 Currently, only the 'Basic' flashcard type is supported with a Question and then an Answer.
 
-<img width="579" alt="image" src="https://github.com/user-attachments/assets/97de49cb-7783-4ace-9df0-c34049dbfbdd" />
+Downloads are available at [Releases](https://github.com/olliecheng/note-to-flashcard/releases). Note that due to stricter Gatekeeper requirements on macOS 15, it is harder to run unnotarised applications. [See the official Apple guidance on running Mac apps from unknown developers](https://support.apple.com/en-au/guide/mac-help/mh40616/mac).
+
+<div align="center">
+  <img width="680" src="https://github.com/user-attachments/assets/730e8663-9d82-4456-8368-2bb0c92a669e"/>
+</div>
