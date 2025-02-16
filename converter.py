@@ -67,7 +67,7 @@ class ConverterApp(toga.App):
         header_box = toga.Box()
         header_box.style.update(direction = ROW, padding_bottom = 20, alignment = "bottom")
 
-        header_label = toga.Label("Notes to Flashcards")
+        header_label = toga.Label("Note to Flashcard")
         header_label.style.font_size = 20
         header_label.style.flex = 1
         header_label.style.font_weight = "bold"
